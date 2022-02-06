@@ -1,4 +1,4 @@
-# NR0 Five Star
+# ITW21Hackathon Project
 
 Steps to run the project - 
 
@@ -6,7 +6,7 @@ Steps to run the project -
 - Make sure you have NodeJS installed. If not, you can download and install it from [here](https://nodejs.org/en/download/).
 - Make sure you have MongoDB installed. If not, you can download and install it from [here](https://docs.mongodb.com/manual/installation/).
 - After cloning the project, open the terminal and redirect ot the project folder.<br>
-    For eg. `H:\International Week 2021\NR0\nr0-five-star> `<br>
+    For eg. `H:\International Week 2021\NR0\itw21hackathon-spreecommerce> `<br>
 - Redirect to the backend directory.<br>
     `cd backend`
 - Install the `npm` dependancies.<br>
